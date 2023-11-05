@@ -14,4 +14,4 @@ Friends Web app to see my friends on different cards.
 
 ## New project
 
-1. git clone link of the project
+1. git clone "link of the project"
